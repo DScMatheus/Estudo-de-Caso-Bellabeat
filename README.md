@@ -11,4 +11,4 @@ ________________________________________________________________________________
 
 *Sobre os arquivos* 
 
-Eu disponibilizei dois arquivos neste repositório. Um contém o PDF com todo o estudo de caso (Estudo.pdf), outro contém todos os códigos utilizados (códigos.pdf) e o outro contém a apresentação dos gráficos (Vizu.pbix).
+Eu disponibilizei dois arquivos neste repositório. Um contém o PDF com todo o estudo de caso (Estudo de caso.pdf), outro contém todos os códigos utilizados (códigos.pdf) e o outro contém a apresentação dos gráficos (Vizu.pbix).
